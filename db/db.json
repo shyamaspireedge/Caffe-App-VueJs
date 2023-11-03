@@ -1,0 +1,42 @@
+{
+  "user": [
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "app",
+      "email": "app@test.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "password": "test@123",
+      "id": 3
+    },
+    {
+      "name": "bruce",
+      "email": "bruce@wayne.com",
+      "password": "bruce@123",
+      "id": 4
+    }
+  ],
+  "cafe": [
+    {
+      "name": "Dominos",
+      "address": "Delhi",
+      "contact": "+91 9899-121-12",
+      "id": 1
+    },
+    {
+      "name": "Starbuck",
+      "address": "Mumbai",
+      "contact": "+91 12121212",
+      "id": 2
+    }
+  ]
+}

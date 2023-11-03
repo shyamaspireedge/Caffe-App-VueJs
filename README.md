@@ -7,6 +7,7 @@ yarn install
 
 ### Compiles and hot-reloads for development
 ```
+Set the nvm version: "v18.18.2"
 yarn serve
 ```
 
